@@ -1,4 +1,6 @@
 # Gravatar
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/gravatarjs.svg)](https://greenkeeper.io/)
 Yet another library for generating gravatar urls.
 
 ## Why?
